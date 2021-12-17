@@ -1,0 +1,15 @@
+/Users/gpoirier/Desktop/conditions/bin/Debug/net6.0/conditions
+/Users/gpoirier/Desktop/conditions/bin/Debug/net6.0/conditions.deps.json
+/Users/gpoirier/Desktop/conditions/bin/Debug/net6.0/conditions.runtimeconfig.json
+/Users/gpoirier/Desktop/conditions/bin/Debug/net6.0/conditions.dll
+/Users/gpoirier/Desktop/conditions/bin/Debug/net6.0/ref/conditions.dll
+/Users/gpoirier/Desktop/conditions/bin/Debug/net6.0/conditions.pdb
+/Users/gpoirier/Desktop/conditions/obj/Debug/net6.0/conditions.csproj.AssemblyReference.cache
+/Users/gpoirier/Desktop/conditions/obj/Debug/net6.0/conditions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gpoirier/Desktop/conditions/obj/Debug/net6.0/conditions.AssemblyInfoInputs.cache
+/Users/gpoirier/Desktop/conditions/obj/Debug/net6.0/conditions.AssemblyInfo.cs
+/Users/gpoirier/Desktop/conditions/obj/Debug/net6.0/conditions.csproj.CoreCompileInputs.cache
+/Users/gpoirier/Desktop/conditions/obj/Debug/net6.0/conditions.dll
+/Users/gpoirier/Desktop/conditions/obj/Debug/net6.0/ref/conditions.dll
+/Users/gpoirier/Desktop/conditions/obj/Debug/net6.0/conditions.pdb
+/Users/gpoirier/Desktop/conditions/obj/Debug/net6.0/conditions.genruntimeconfig.cache

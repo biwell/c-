@@ -1,0 +1,15 @@
+/Users/gpoirier/Desktop/c#/Methods/obj/Debug/net6.0/Methods.csproj.AssemblyReference.cache
+/Users/gpoirier/Desktop/c#/Methods/obj/Debug/net6.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gpoirier/Desktop/c#/Methods/obj/Debug/net6.0/Methods.AssemblyInfoInputs.cache
+/Users/gpoirier/Desktop/c#/Methods/obj/Debug/net6.0/Methods.AssemblyInfo.cs
+/Users/gpoirier/Desktop/c#/Methods/obj/Debug/net6.0/Methods.csproj.CoreCompileInputs.cache
+/Users/gpoirier/Desktop/c#/Methods/bin/Debug/net6.0/Methods
+/Users/gpoirier/Desktop/c#/Methods/bin/Debug/net6.0/Methods.deps.json
+/Users/gpoirier/Desktop/c#/Methods/bin/Debug/net6.0/Methods.runtimeconfig.json
+/Users/gpoirier/Desktop/c#/Methods/bin/Debug/net6.0/Methods.dll
+/Users/gpoirier/Desktop/c#/Methods/bin/Debug/net6.0/ref/Methods.dll
+/Users/gpoirier/Desktop/c#/Methods/bin/Debug/net6.0/Methods.pdb
+/Users/gpoirier/Desktop/c#/Methods/obj/Debug/net6.0/Methods.dll
+/Users/gpoirier/Desktop/c#/Methods/obj/Debug/net6.0/ref/Methods.dll
+/Users/gpoirier/Desktop/c#/Methods/obj/Debug/net6.0/Methods.pdb
+/Users/gpoirier/Desktop/c#/Methods/obj/Debug/net6.0/Methods.genruntimeconfig.cache

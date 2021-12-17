@@ -1,0 +1,15 @@
+/Users/gpoirier/Desktop/ctraining/bin/Debug/net6.0/c#training
+/Users/gpoirier/Desktop/ctraining/bin/Debug/net6.0/c#training.deps.json
+/Users/gpoirier/Desktop/ctraining/bin/Debug/net6.0/c#training.runtimeconfig.json
+/Users/gpoirier/Desktop/ctraining/bin/Debug/net6.0/c#training.dll
+/Users/gpoirier/Desktop/ctraining/bin/Debug/net6.0/ref/c#training.dll
+/Users/gpoirier/Desktop/ctraining/bin/Debug/net6.0/c#training.pdb
+/Users/gpoirier/Desktop/ctraining/obj/Debug/net6.0/c#training.csproj.AssemblyReference.cache
+/Users/gpoirier/Desktop/ctraining/obj/Debug/net6.0/c#training.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gpoirier/Desktop/ctraining/obj/Debug/net6.0/c#training.AssemblyInfoInputs.cache
+/Users/gpoirier/Desktop/ctraining/obj/Debug/net6.0/c#training.AssemblyInfo.cs
+/Users/gpoirier/Desktop/ctraining/obj/Debug/net6.0/c#training.csproj.CoreCompileInputs.cache
+/Users/gpoirier/Desktop/ctraining/obj/Debug/net6.0/c#training.dll
+/Users/gpoirier/Desktop/ctraining/obj/Debug/net6.0/ref/c#training.dll
+/Users/gpoirier/Desktop/ctraining/obj/Debug/net6.0/c#training.pdb
+/Users/gpoirier/Desktop/ctraining/obj/Debug/net6.0/c#training.genruntimeconfig.cache

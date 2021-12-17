@@ -1,0 +1,15 @@
+/Users/gpoirier/Desktop/c#/Arrays/bin/Debug/net6.0/Arrays
+/Users/gpoirier/Desktop/c#/Arrays/bin/Debug/net6.0/Arrays.deps.json
+/Users/gpoirier/Desktop/c#/Arrays/bin/Debug/net6.0/Arrays.runtimeconfig.json
+/Users/gpoirier/Desktop/c#/Arrays/bin/Debug/net6.0/Arrays.dll
+/Users/gpoirier/Desktop/c#/Arrays/bin/Debug/net6.0/ref/Arrays.dll
+/Users/gpoirier/Desktop/c#/Arrays/bin/Debug/net6.0/Arrays.pdb
+/Users/gpoirier/Desktop/c#/Arrays/obj/Debug/net6.0/Arrays.csproj.AssemblyReference.cache
+/Users/gpoirier/Desktop/c#/Arrays/obj/Debug/net6.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gpoirier/Desktop/c#/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfoInputs.cache
+/Users/gpoirier/Desktop/c#/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfo.cs
+/Users/gpoirier/Desktop/c#/Arrays/obj/Debug/net6.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/gpoirier/Desktop/c#/Arrays/obj/Debug/net6.0/Arrays.dll
+/Users/gpoirier/Desktop/c#/Arrays/obj/Debug/net6.0/ref/Arrays.dll
+/Users/gpoirier/Desktop/c#/Arrays/obj/Debug/net6.0/Arrays.pdb
+/Users/gpoirier/Desktop/c#/Arrays/obj/Debug/net6.0/Arrays.genruntimeconfig.cache

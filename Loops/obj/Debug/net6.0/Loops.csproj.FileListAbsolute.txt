@@ -1,0 +1,15 @@
+/Users/gpoirier/Desktop/c#/Loops/bin/Debug/net6.0/Loops
+/Users/gpoirier/Desktop/c#/Loops/bin/Debug/net6.0/Loops.deps.json
+/Users/gpoirier/Desktop/c#/Loops/bin/Debug/net6.0/Loops.runtimeconfig.json
+/Users/gpoirier/Desktop/c#/Loops/bin/Debug/net6.0/Loops.dll
+/Users/gpoirier/Desktop/c#/Loops/bin/Debug/net6.0/ref/Loops.dll
+/Users/gpoirier/Desktop/c#/Loops/bin/Debug/net6.0/Loops.pdb
+/Users/gpoirier/Desktop/c#/Loops/obj/Debug/net6.0/Loops.csproj.AssemblyReference.cache
+/Users/gpoirier/Desktop/c#/Loops/obj/Debug/net6.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gpoirier/Desktop/c#/Loops/obj/Debug/net6.0/Loops.AssemblyInfoInputs.cache
+/Users/gpoirier/Desktop/c#/Loops/obj/Debug/net6.0/Loops.AssemblyInfo.cs
+/Users/gpoirier/Desktop/c#/Loops/obj/Debug/net6.0/Loops.csproj.CoreCompileInputs.cache
+/Users/gpoirier/Desktop/c#/Loops/obj/Debug/net6.0/Loops.dll
+/Users/gpoirier/Desktop/c#/Loops/obj/Debug/net6.0/ref/Loops.dll
+/Users/gpoirier/Desktop/c#/Loops/obj/Debug/net6.0/Loops.pdb
+/Users/gpoirier/Desktop/c#/Loops/obj/Debug/net6.0/Loops.genruntimeconfig.cache
